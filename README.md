@@ -1,3 +1,4 @@
+// （中英文）模型搜索工具类快捷、准确！
 // 详情看工程文件
     // userName 为 HZQContactPerson模型中的 userName
     ![image](https://github.com/huzhiqin/HZQSearchDisplayController/HZQSearchDisplayController/search.png)
